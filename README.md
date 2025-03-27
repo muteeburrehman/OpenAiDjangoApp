@@ -3,6 +3,8 @@
 ## Overview
 Code Explainer is a web application that helps users understand code snippets by analyzing their language and functionality using AI-powered explanations. The application features user authentication with token-based authorization.
 
+![Screenshot](https://raw.githubusercontent.com/muteeburrehman/OpenAiDjangoApp/main/Screenshot%20from%202025-03-27%2016-19-50.png)
+
 ## Technologies
 - Frontend: Next.js
 - Backend: Django
@@ -26,6 +28,12 @@ code-explainer/
 └── frontend/          # Next.js frontend
     ├── package.json
     └── next.config.js
+```
+
+## Clone the Repository
+```bash
+git clone https://github.com/muteeburrehman/OpenAiDjangoApp
+cd OpenAiDjangoApp
 ```
 
 ## Setup and Installation
